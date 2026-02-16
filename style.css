@@ -1,9 +1,13 @@
-.top{color:blue;}
-
+.top{
+ color:blue;
+}
 body{
  background-color:purple;
  }
-
 #button {
  background-color:orange;
 }
+.ダウンロードimg img {
+ width: 100px;
+}
+ 
